@@ -1,0 +1,49 @@
+_repo: The-Chronicle-of-the-Discovery-and-Conquest-of-GuineaVol.-I_35738
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Beazley, C. Raymond (Charles Raymond)
+    aliases:
+    - Beazley, Raymond, Sir
+    - Beazley, Charles Raymond
+    - Beazley, C. R. (Charles Raymond)
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '8233'
+    url: http://www.gutenberg.org/2009/agents/8233
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Raymond_Beazley
+  - agent_name: Prestage, Edgar
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '37867'
+    url: http://www.gutenberg.org/2009/agents/37867
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zurara, Gomes Eannes de
+    aliases:
+    - Eanes de Zurara, Gomes
+    - De Zurara, Gomes Eanes
+    - Azurara, Gomes Eannes de
+    - Eannes de Azurara, Gomes
+    birthdate: 1409
+    deathdate: 1473
+    gutenberg_agent_id: '37865'
+    url: http://www.gutenberg.org/2009/agents/37865
+description: ''
+gutenberg_issued: '2011-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Hakluyt Society, First Series, no. 95
+subjects:
+- !lcc 'G'
+- !lcsh 'Guinea (Region) -- Discovery and exploration -- Early works to 1800'
+title: The Chronicle of the Discovery and Conquest of Guinea. Vol. I
+url: http://www.gutenberg.org/ebooks/35738
